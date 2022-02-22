@@ -1,4 +1,9 @@
 # Language_Technology
+This project is about creating a search engine that works in real life articles, like other well-known search engines.
+
+First of all, we scrape articles using scrapy. Then we preprocess them and create an index that can be searched in a time-efficient way using python.
+
+Finally, we may search the articles using a command line interface.
 
 ## Download scrapy
 - [Download scrapy here](https://scrapy.org/)
