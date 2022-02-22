@@ -10,7 +10,6 @@ Initialize your scrapy spider and then copy/paste the spiders provided. Then, ru
 You may enable or disable sleep() function in each spider, in order to avoid getting blocked. Sleep seconds may vary from page to page in general.
 
 ### Contents of csv files
-Each csv file will cointain:
 - Title
 - Content
 - URL
@@ -33,3 +32,10 @@ Each csv file will cointain:
 To display correctly the contents of a csv in excel click [here](https://techcommunity.microsoft.com/t5/excel/open-and-edit-a-csv-file-in-utf8/m-p/1035653/highlight/true#M45222)
 
 Alternatively download [Libre Office](https://www.libreoffice.org/)
+
+## Terminal
+You may use cmd or any terminal of your choice.
+
+This has been tested on [Anaconda Prompt terminal](https://www.anaconda.com/products/individual)
+
+Python 3.7 is recommended
